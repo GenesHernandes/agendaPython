@@ -1,0 +1,6 @@
+Ana;6798569856;ana@gmail.com 
+Genes ;6733556425;genes@hotmail.com 
+Maria;4498569856;maria@outlook.com 
+Joana;4498745632;joana@hotmail.com 
+Victor;4498569856;victor@gmail.com 
+Aline;6798562145;aline@gmail.com 
